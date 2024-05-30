@@ -1,0 +1,2 @@
+# UsdtBot
+USDT Mining Bot
